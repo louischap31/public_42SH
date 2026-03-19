@@ -62,5 +62,5 @@ The provided `42sh` binary is compiled for **Linux (x86_64)**. If you are on mac
 Clone the repository and navigate into the directory:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/42sh-public.git](https://github.com/YOUR_USERNAME/42sh-public.git)
+git clone https://github.com/louischap31/public_42SH.git
 cd 42sh-public
